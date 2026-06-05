@@ -10,6 +10,9 @@ Using the Financial PhraseBank dataset, models classify financial news statement
 The primary goal was to examine the tradeoff between model accuracy and computational sustainability. In addition to standard performance metrics, 
 carbon emissions and training efficiency were measured using CodeCarbon.
 
+## Project Materials 
+- [Final Research Report](Financial_Sentiment_Green_AI_Report.pdf)
+
 ## Tools and Technologies
 
 * Python
